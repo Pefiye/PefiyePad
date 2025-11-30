@@ -1,14 +1,12 @@
 # PefiyePad
 3x4 MacroPad<br>
 
-<br>
 ## Features: <br>
 <br>
 MX Switches <br>
 1N4148 Diodes <br>
 Seeed XIAO Raspberry Pico Micro Controller <br>
 
-<br>
 ## CAD Model: <br>
 <br>
 Fit Using M3x16mm screws <br>
@@ -24,13 +22,10 @@ Schematic <br>
 
 <br>
 PCB <br>
-<br>
 
-<br>
 ## Firmware <br>
 <br>
 Using Python KMK <br>
-<br>
 
 ## BOM
 <br>
