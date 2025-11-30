@@ -1,29 +1,33 @@
 # PefiyePad
 3x4 MacroPad<br>
 
-## Features: <br>
+## Features
 <br>
 MX Switches <br>
 1N4148 Diodes <br>
 Seeed XIAO Raspberry Pico Micro Controller <br>
 
-## CAD Model: <br>
+## CAD Model
 <br>
 Fit Using M3x16mm screws <br>
 <br>
+<img src="Asset/mod.png">
 
 <br>
 Made In Fusion 360 <br>
 
-## PCB: <br>
+## PCB
 <br>
 Schematic <br>
 <br>
-
+<img src="Asset/sch.png">
+  
 <br>
 PCB <br>
+<br>
+<img src="Asset/pcb.png">
 
-## Firmware <br>
+## Firmware
 <br>
 Using Python KMK <br>
 
