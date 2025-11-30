@@ -2,14 +2,14 @@
 3x4 MacroPad<br>
 
 <br>
-##Features: <br>
+## Features: <br>
 <br>
 MX Switches <br>
 1N4148 Diodes <br>
 Seeed XIAO Raspberry Pico Micro Controller <br>
 
 <br>
-##CAD Model: <br>
+## CAD Model: <br>
 <br>
 Fit Using M3x16mm screws <br>
 <br>
@@ -17,7 +17,7 @@ Fit Using M3x16mm screws <br>
 <br>
 Made In Fusion 360 <br>
 
-##PCB: <br>
+## PCB: <br>
 <br>
 Schematic <br>
 <br>
@@ -27,12 +27,12 @@ PCB <br>
 <br>
 
 <br>
-##Firmware <br>
+## Firmware <br>
 <br>
 Using Python KMK <br>
 <br>
 
-##BOM
+## BOM
 <br>
 
 Seeed XIAO RP2040<br>
