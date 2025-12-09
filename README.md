@@ -13,6 +13,8 @@ Seeed XIAO Raspberry Pico Micro Controller <br>
 Fit Using M3x16mm screws <br>
 <br>
 <img src="Asset/mod.png">
+<img src="Asset/mod2.png">
+<img src="Asset/mod3.png">
 
 <br>
 Made In Fusion 360 <br>
