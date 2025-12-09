@@ -1,6 +1,6 @@
 # PefiyePad
 3x4 MacroPad<br>
-im currently using a wireless numpad with auto hotkey for my shortcuts like muting and deafen on discord, but i was scrolling on Instagram reels and saw the ad for blueprints and i thought oh this is interesting, so i followed the guide from the blueprint website and i made this! a 3x4 macropad!
+im currently using a wireless numpad with auto hotkey for my shortcuts like muting and deafen on discord,  i was scrolling on Instagram reels and saw the ad for blueprints and i thought oh this is interesting, so i followed the guide from the blueprint website and i made this! a 3x4 macropad, I've been interested in these kind of things making gadgets, devices, and i think this can be a great start for me to learn it!
 
 ## Features
 <br>
